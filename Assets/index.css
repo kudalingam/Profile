@@ -48,6 +48,11 @@ h6 {
     font-size: 40px !important;
   }
 }
+@media (max-width: 565px) {
+  h1 {
+    font-size: 40px !important;
+  }
+}
 html {
   scroll-behavior: smooth;
 }
